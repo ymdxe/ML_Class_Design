@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Disc_Cup_Fovea_check</folder>
+	<filename>0058.jpg</filename>
+	<path>C:\code\vcpython\ML_class_design\task1\detection\train\0058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fovea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1391</xmin>
+			<ymin>910</ymin>
+			<xmax>1585</xmax>
+			<ymax>1104</ymax>
+		</bndbox>
+	</object>
+</annotation>
